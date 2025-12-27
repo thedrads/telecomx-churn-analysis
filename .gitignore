@@ -1,41 +1,36 @@
-# Byte-compiled / optimized / DLL files
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb_checkpoints/
+*.ipynb_checkpoints
 
-# Dados sensíveis e temporários
+# Data
+data/raw/*
+!data/raw/.gitkeep
 *.csv
-*.json
 *.xlsx
-*.db
-*.sqlite
-
-# Exceto dados de exemplo (se houver)
-!data/raw/sample.json
-!data/processed/sample_clean.csv
-
-# Ambientes virtuais
-venv/
-env/
-ENV/
+*.json
+!data/processed/telecom_limpo.csv
 
 # IDEs
 .vscode/
 .idea/
 *.swp
 *.swo
+*~
 
-# Sistema operacional
+# OS
 .DS_Store
 Thumbs.db
 
 # Logs
 *.log
-
-# Arquivos temporários
-*.tmp
-*.bak
