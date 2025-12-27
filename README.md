@@ -282,7 +282,7 @@ Baseado em análise de correlação e crosstabs:
 **Fábio Andrade**
 
 - 🐙 GitHub: [@thedrads](https://github.com/thedrads)
-- 💼 LinkedIn: [Fábio Andrade](https://linkedin.com/in/seu-perfil)
+- 💼 LinkedIn: [Fábio Andrade](https://www.linkedin.com/in/fabioandradegf/)
 - 📧 Email: [Fábio Adrade](mailto:fabiodandrade@uol.com.br)
 
 ---
