@@ -22,7 +22,7 @@ Análise completa de churn (evasão de clientes) da empresa TelecomX, seguindo p
 - [💡 Insights Estratégicos](#-insights-estratégicos)
 - [🤖 Preparação para ML](#-preparação-para-ml)
 - [📚 Tecnologias](#-tecnologias)
-- [👨‍💻 Autor](#-autor)
+- [👤 Autor](#-autor)
 - [📄 Licença](#-licença)
 
 ---
@@ -277,13 +277,13 @@ Baseado em análise de correlação e crosstabs:
 
 ---
 
-## 👨‍💻 Autor
+## 👤 Autor
 
 **Fábio Andrade**
 
 - 🐙 GitHub: [@thedrads](https://github.com/thedrads)
 - 💼 LinkedIn: [Fábio Andrade](https://linkedin.com/in/seu-perfil)
-- 📧 Email: [Fábio Andrade](fabiodandrade@uol.com.br)
+- 📧 Email: [Fábio Adrade](mailto:fabiodandrade@uol.com.br)
 
 ---
 
