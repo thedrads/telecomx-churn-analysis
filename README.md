@@ -327,6 +327,10 @@ Todo o conteúdo final, códigos, análises, insights, decisões técnicas e con
 - [Arizona State University - Acknowledging AI Usage](https://libguides.asu.edu/generativeai/acknowledgement)
 - [AID Framework - AI Disclosure](https://crln.acrl.org/index.php/crlnews/article/view/26548)
 
+> Este projeto também está alinhado à minha formação contínua em IA aplicada aos negócios e produtividade, com cursos como:
+
+> [IA Aplicada aos Negócios – FGV](https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/inteligencia-artificial-aplicada-aos-negocios-2) e [Generative AI – Cornell](https://ecornell.cornell.edu/certificates/technology/generative-ai-for-productivity/).
+
 ---
 
 ## 👤 Autor
@@ -344,6 +348,15 @@ Todo o conteúdo final, códigos, análises, insights, decisões técnicas e con
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabioandradegf/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thedrads)
+
+---
+
+> 🛠️ Este projeto está aberto a contribuições e novas funcionalidades.  
+> Versões futuras podem incluir modelos de classificação e dashboards interativos.
+
+---
+
+> Nota: os dados foram obtidos de uma API REST fictícia fornecida no Challenge. Não há link público disponível.
 
 ---
 
