@@ -1,5 +1,10 @@
 # 📊 TelecomX - Análise de Evasão de Clientes (Churn)
 
+## 🚀 Como Executar
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thedrads/telecomx-churn-analysis/blob/main/notebooks/analise_churn_telecom.ipynb)
+
+---
+
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
@@ -328,8 +333,8 @@ Todo o conteúdo final, códigos, análises, insights, decisões técnicas e con
 - [AID Framework - AI Disclosure](https://crln.acrl.org/index.php/crlnews/article/view/26548)
 
 > Este projeto também está alinhado à minha formação contínua em IA aplicada aos negócios e produtividade, com cursos como:
-
-> [IA Aplicada aos Negócios – FGV](https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/inteligencia-artificial-aplicada-aos-negocios-2) e [Generative AI – Cornell](https://ecornell.cornell.edu/certificates/technology/generative-ai-for-productivity/).
+> 
+> [IA Aplicada aos Negócios – FGV](https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/inteligencia-artificial-aplicada-aos-negocios-2) e [Generative AI for Productivity – Cornell](https://ecornell.cornell.edu/certificates/technology/generative-ai-for-productivity/).
 
 ---
 
