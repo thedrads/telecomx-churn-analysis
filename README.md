@@ -1,9 +1,9 @@
 # 📊 TelecomX - Análise de Evasão de Clientes (Churn)
-
-## 🚀 Como Executar
-[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thedrads/telecomx-churn-analysis/blob/main/notebooks/analise_churn_telecom.ipynb)
+### 🎓 Projeto acadêmico | Challenge Data Science – Alura + Oracle ONE
 
 ---
+
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thedrads/telecomx-churn-analysis/blob/main/notebooks/analise_churn_telecom.ipynb)
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -18,7 +18,8 @@
 ## 📑 Sumário
 
 - [Sobre o Projeto](#-sobre-o-projeto)
-- [Diferencial: Preparação para ML](#-diferencial-preparação-para-machine-learning)
+- [Minha Jornada](#-minha-jornada)
+- [Extensão: Preparação para ML](#-extensão-preparação-para-machine-learning)
 - [Principais Resultados](#-principais-resultados)
 - [Visualizações](#-visualizações)
 - [Estrutura do Repositório](#-estrutura-do-repositório)
@@ -50,17 +51,23 @@ A **TelecomX** é uma empresa de telecomunicações que enfrenta um desafio crí
 
 ---
 
-## 🚀 Diferencial: Preparação para Machine Learning
+## 🚀 Minha Jornada
 
-> **Nota:** A preparação do dataset para Machine Learning foi uma **decisão proativa do autor**, indo além do escopo original do Challenge.
+Sou gestor financeiro com 20 anos de experiência em gestão empresarial, atualmente em transição de carreira para Data Science e Cloud Computing. Este projeto faz parte da minha formação no programa **Oracle Next Education (ONE)** e do **MBA em IA & Análise de Dados (SENAC)**.
 
-### Por que essa decisão?
+Meu objetivo aqui foi aplicar fundamentos de ETL e análise exploratória em um cenário realista, integrando minha visão de negócios com habilidades técnicas em desenvolvimento. Como iniciante em programação, busco aprender continuamente e trocar conhecimento com a comunidade.
 
-Após concluir a análise exploratória, identifiquei que o próximo passo natural em um projeto real de Data Science seria a construção de um modelo preditivo. Por isso, optei por deixar o dataset **pronto para modelagem**, mesmo não sendo um requisito do Challenge.
+Este repositório representa não apenas a entrega de um challenge, mas um passo concreto na construção do meu portfólio técnico com transparência sobre meu nível atual e compromisso com a evolução constante.
+
+---
+
+## 🔬 Extensão: Preparação para Machine Learning
+
+Após concluir a análise exploratória exigida pelo Challenge, identifiquei uma oportunidade de agregar valor: deixar o dataset pronto para modelagem preditiva. Essa extensão segue o framework **CRISP-DM** e reflete minha visão de entregar soluções completas, não apenas tarefas isoladas.
 
 ### Fundamentação Técnica
 
-Esta abordagem segue o framework **CRISP-DM** (Cross-Industry Standard Process for Data Mining), reconhecido como o modelo de analytics mais utilizado na indústria segundo a [Wikipedia](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining):
+O **CRISP-DM** (Cross-Industry Standard Process for Data Mining) é reconhecido como o modelo de analytics mais utilizado na indústria:
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -69,15 +76,11 @@ Esta abordagem segue o framework **CRISP-DM** (Cross-Industry Standard Process f
 │  1. Business Understanding    ✅ Concluído                      │
 │  2. Data Understanding        ✅ Concluído (EDA)                │
 │  3. Data Preparation          ✅ Concluído (ETL)                │
-│  4. Modeling                  🔜 Dataset preparado para esta   │
+│  4. Modeling                  🔜 Dataset preparado para esta    │
 │  5. Evaluation                    etapa                         │
 │  6. Deployment                                                  │
 └─────────────────────────────────────────────────────────────────┘
 ```
-
-Segundo o [Business Analytics Institute](https://businessanalyticsinstitute.com/understanding-the-crisp-dm-methodology-for-data-science-projects/):
-
-> *"The Modeling phase is where analysts apply various statistical and machine learning techniques to build predictive models based on the prepared dataset."*
 
 ### O que foi preparado para ML
 
@@ -91,7 +94,6 @@ Segundo o [Business Analytics Institute](https://businessanalyticsinstitute.com/
 
 ### Referências
 
-- [CRISP-DM - Wikipedia](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) - "The most widely-used analytics model"
 - [CRISP-DM Methodology - Business Analytics Institute](https://businessanalyticsinstitute.com/understanding-the-crisp-dm-methodology-for-data-science-projects/)
 - [Data Science Workflow - IABAC](https://iabac.org/blog/what-is-the-data-science-workflow)
 - [CRISP-DM for Data Science - Data Science PM](https://www.datascience-pm.com/crisp-dm-2/)
@@ -167,7 +169,7 @@ telecomx-churn-analysis/
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🧰 Tecnologias Utilizadas
 
 | Categoria | Tecnologia | Versão | Uso |
 |-----------|------------|--------|-----|
@@ -184,12 +186,18 @@ telecomx-churn-analysis/
 
 ## 🚀 Como Executar
 
-### Pré-requisitos
+### Opção Rápida: Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thedrads/telecomx-churn-analysis/blob/main/notebooks/analise_churn_telecom.ipynb)
+
+### Execução Local
+
+#### Pré-requisitos
 
 - Python 3.10 ou superior
 - pip (gerenciador de pacotes)
 
-### Instalação
+#### Instalação
 
 1. **Clone o repositório**
    ```bash
@@ -214,17 +222,13 @@ telecomx-churn-analysis/
    jupyter notebook notebooks/analise_churn_telecom.ipynb
    ```
 
-### Execução no Google Colab
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thedrads/telecomx-churn-analysis/blob/main/notebooks/analise_churn_telecom.ipynb)
-
 ---
 
 ## 📋 Dataset
 
 ### Fonte
 
-Dados extraídos via API REST do repositório do Challenge Alura.
+Dados extraídos via API REST do repositório do Challenge Alura (API fictícia para fins educacionais).
 
 ### Dimensões
 
@@ -303,6 +307,12 @@ O projeto segue o processo **ETL + EDA**, alinhado às primeiras fases do framew
 | Clientes novos (0-12 meses) | 48% | Programa de onboarding intensivo |
 | Boleto eletrônico | 45% | Oferecer desconto para débito automático |
 
+### Perspectiva de Negócio
+
+Com base na minha experiência em gestão financeira, destaco que a perda anual estimada de **US$ 2,86M** representa não apenas receita perdida, mas também **custo de aquisição desperdiçado**. Em telecomunicações, o CAC (Customer Acquisition Cost) tipicamente varia de 5x a 25x o valor da retenção, o que torna programas de fidelização significativamente mais rentáveis que campanhas de aquisição.
+
+A concentração de churn em clientes novos (0-12 meses) sugere falhas no processo de onboarding e primeira experiência, pontos críticos onde intervenções têm alto ROI.
+
 ### Plano de Ação Recomendado
 
 1. **Curto Prazo:** Campanhas de retenção para clientes com contrato mensal
@@ -313,7 +323,7 @@ O projeto segue o processo **ETL + EDA**, alinhado às primeiras fases do framew
 
 ## 🤖 Declaração de Uso de IA
 
-Este projeto foi desenvolvido com assistência da **Inteligência Articial Generativa** (IA).
+Este projeto foi desenvolvido com assistência de **Inteligência Artificial Generativa**.
 
 ### Escopo de Utilização
 
@@ -324,7 +334,7 @@ Este projeto foi desenvolvido com assistência da **Inteligência Articial Gener
 
 ### Responsabilidade
 
-Todo o conteúdo final, códigos, análises, insights, decisões técnicas e conclusões, foram **integralmente revisados, validados e aprovados pelo autor**. A inteligência artificial foi utilizada como ferramenta de apoio ao desenvolvimento, complementando o trabalho intelectual do desenvolvedor, não o substituindo.
+Todo o conteúdo final, códigos, análises, insights, decisões técnicas e conclusões, foi **integralmente revisado, validado e aprovado pelo autor**. A IA foi utilizada como ferramenta de apoio ao desenvolvimento, complementando o trabalho intelectual, não o substituindo.
 
 ### Referências sobre Disclosure de IA
 
@@ -332,9 +342,7 @@ Todo o conteúdo final, códigos, análises, insights, decisões técnicas e con
 - [Arizona State University - Acknowledging AI Usage](https://libguides.asu.edu/generativeai/acknowledgement)
 - [AID Framework - AI Disclosure](https://crln.acrl.org/index.php/crlnews/article/view/26548)
 
-> Este projeto também está alinhado à minha formação contínua em IA aplicada aos negócios e produtividade, com cursos como:
-> 
-> [IA Aplicada aos Negócios – FGV](https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/inteligencia-artificial-aplicada-aos-negocios-2) e [Generative AI for Productivity – Cornell](https://ecornell.cornell.edu/certificates/technology/generative-ai-for-productivity/).
+> Este projeto está alinhado à minha formação contínua em IA aplicada aos negócios, incluindo cursos como [IA Aplicada aos Negócios – FGV](https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/inteligencia-artificial-aplicada-aos-negocios-2) e [Generative AI for Productivity – Cornell](https://ecornell.cornell.edu/certificates/technology/generative-ai-for-productivity/).
 
 ---
 
@@ -352,29 +360,16 @@ Todo o conteúdo final, códigos, análises, insights, decisões técnicas e con
 </table>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabioandradegf/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thedrads)
-
----
-
-> 🛠️ Este projeto está aberto a contribuições e novas funcionalidades.  
-> Versões futuras podem incluir modelos de classificação e dashboards interativos.
-
----
-
-> Nota: os dados foram obtidos de uma API REST fictícia fornecida no Challenge. Não há link público disponível.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thedrads)
 
 ---
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT - consulte [LICENSE](LICENSE) para detalhes.
 
 ---
 
 <p align="center">
-  <b>⭐ Se este projeto foi útil, considere dar uma estrela!</b>
-</p>
-
-<p align="center">
-  Desenvolvido com ☕ e 📊 por <a href="https://github.com/thedrads">Fábio Andrade</a>
+  Desenvolvido por <a href="https://github.com/thedrads">Fábio Andrade</a> | Aberto a feedbacks e contribuições
 </p>
