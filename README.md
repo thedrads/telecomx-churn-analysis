@@ -57,7 +57,7 @@ Sou gestor financeiro com 20 anos de experiência em gestão empresarial, atualm
 
 Meu objetivo aqui foi aplicar fundamentos de ETL e análise exploratória em um cenário realista, integrando minha visão de negócios com habilidades técnicas em desenvolvimento. Como iniciante em programação, busco aprender continuamente e trocar conhecimento com a comunidade.
 
-Este repositório representa não apenas a entrega de um challenge, mas um passo concreto na construção do meu portfólio técnico com transparência sobre meu nível atual e compromisso com a evolução constante.
+Este repositório representa não apenas a entrega de um challenge, mas um passo concreto na construção do meu portfólio técnico — com transparência sobre meu nível atual e compromisso com a evolução constante.
 
 ---
 
@@ -309,7 +309,7 @@ O projeto segue o processo **ETL + EDA**, alinhado às primeiras fases do framew
 
 ### Perspectiva de Negócio
 
-Com base na minha experiência em gestão financeira, destaco que a perda anual estimada de **US$ 2,86M** representa não apenas receita perdida, mas também **custo de aquisição desperdiçado**. Em telecomunicações, o CAC (Customer Acquisition Cost) tipicamente varia de 5x a 25x o valor da retenção, o que torna programas de fidelização significativamente mais rentáveis que campanhas de aquisição.
+Com base na minha experiência em gestão financeira, destaco que a perda anual estimada de **US$ 2,86M** representa não apenas receita perdida, mas também **custo de aquisição desperdiçado**. Em telecomunicações, o CAC (Customer Acquisition Cost) tipicamente varia de 5x a 25x o valor da retenção — o que torna programas de fidelização significativamente mais rentáveis que campanhas de aquisição.
 
 A concentração de churn em clientes novos (0-12 meses) sugere falhas no processo de onboarding e primeira experiência, pontos críticos onde intervenções têm alto ROI.
 
@@ -334,7 +334,7 @@ Este projeto foi desenvolvido com assistência de **Inteligência Artificial Gen
 
 ### Responsabilidade
 
-Todo o conteúdo final, códigos, análises, insights, decisões técnicas e conclusões, foi **integralmente revisado, validado e aprovado pelo autor**. A IA foi utilizada como ferramenta de apoio ao desenvolvimento, complementando o trabalho intelectual, não o substituindo.
+Todo o conteúdo final — códigos, análises, insights, decisões técnicas e conclusões — foi **integralmente revisado, validado e aprovado pelo autor**. A IA foi utilizada como ferramenta de apoio ao desenvolvimento, complementando o trabalho intelectual, não o substituindo.
 
 ### Referências sobre Disclosure de IA
 
@@ -360,13 +360,13 @@ Todo o conteúdo final, códigos, análises, insights, decisões técnicas e con
 </table>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabioandradegf/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thedrads)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thedrads)
 
 ---
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT - consulte [LICENSE](LICENSE) para detalhes.
+Este projeto está sob a licença MIT — consulte [LICENSE](LICENSE) para detalhes.
 
 ---
 
